@@ -1,5 +1,3 @@
-@import "_fild"
-
-body {
-	font-size: 20px;
-}
+/*Подключение файлов стилей*/
+@import "reset.css";
+@import "fild";
